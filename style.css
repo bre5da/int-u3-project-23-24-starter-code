@@ -20,9 +20,10 @@ body {
 /* Style the body with a background color or image if desired */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #C4A484;
     text-align: center;
     padding: 20px;
+    color: black;
 }
 
 /* Style the title of your story */
@@ -64,7 +65,7 @@ button {
     font-size: 16px;
     padding: 10px 20px;
     margin: 10px;
-    background-color: #007bff;
+    background-color: #D2B48C;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -73,7 +74,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color:white;
 }
 
 /* Style the screens for option one and option two */
@@ -114,3 +115,7 @@ img{
 .Slide1{
     font-size: 50px;
 }
+button{
+    color: black;
+}
+
